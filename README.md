@@ -6,10 +6,27 @@ I work extensively with C++, Rust, and Slang. When creating graphics, my graphic
 
 I like using bleeding-edge technology.
 
-I know a fair bit of x86_64 assembly with AVX2, AES-NI, and a few other bells and whistles, and some AMD RDNA 3 assembly. I don't write much assembly by myself, rather it plays a key role in my analysis of a program's behavior in performance terms.
+# languages
+
+### source languages
+- Rust
+- C++
+- Slang
+
+### assemblies
+- x86_64, +BMI, +BMI2, +SSE, +AVX, +AVX2, +AESNI
+- AArch64
+- RDNA 2
+- RDNA 3
+
+### tools
+- CMake
+- perf
+- AMD Radeon GPU Profiler
+- AMD Radeon Raytracing Analyzer
 
 # other stuff about me
 
 - Nier:Automata and Honkai: Star Rail enjoyer
-- `-fno-exceptions -fwrapv` enjoyer
+- C++ `-fno-exceptions -fwrapv` enjoyer
 - No.1 `std::ranges` hater
