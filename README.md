@@ -2,8 +2,6 @@ Haiii :3
 
 I'm a self-taught programmer with a passion for high-performance GPU programming and realtime graphics.
 
-I work extensively with C++, Rust, and Slang. When creating graphics, my graphics API of choice is Vulkan.
-
 I like using bleeding-edge technology.
 
 # languages
@@ -19,7 +17,11 @@ I like using bleeding-edge technology.
 - RDNA 2
 - RDNA 3
 
+### notable known APIs
+- Vulkan, +VK1.4
+
 ### tools
+- Git
 - CMake
 - perf
 - AMD Radeon GPU Profiler
